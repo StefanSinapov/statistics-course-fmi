@@ -11,7 +11,7 @@
 ### Упражнения
 - Семинарни - за тях е хубаво да се носят материалите предварително принтирани за всяко упражнение 
 - Практически - ще се учи R (функционален език) 
-    - [r-project.org](r-project.org) - Download R  
+    - [r-project.org](https://www.r-project.org) - Download R  
     - IDE - [RStudio](https://www.rstudio.com/products/RStudio/)
     - Verzai Simple R - [https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf) 
     - UsingR - пакет койта ще се използва на упражнения 
